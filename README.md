@@ -17,6 +17,7 @@
 ---
 
 ## 스킬
+
 <div align="center">
   <img src="https://img.shields.io/badge/meta-0467DF?style=flat&logo=meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
@@ -61,4 +62,4 @@
 
 ---
 
-README 작성 시 가능한 간결하고 가독성 있게 작성하면 좋습니다. 필요 시 각각의 프로젝트에 대한 상세 설명도 추가할 수 있습니다.
+
