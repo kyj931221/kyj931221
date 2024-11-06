@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ 스킬
+## 🛠️ 기술
 
 <div align="center">
   <img src="https://img.shields.io/badge/meta-0467DF?style=flat&logo=meta&logoColor=white"/>
