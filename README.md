@@ -24,12 +24,12 @@
 
 ## 💻 프로젝트 목록
 
-| 이미지 | 프로젝트 이름 | 엔진 | 유형 | 설명 | 링크 |
-|--------|---------------|------|------|------|------|
-| ![프로젝트1 이미지](https://github.com/kyj931221/01.Then-a-ninja-suddenly-appeared/blob/main/Main_Dodge/Assets/Image/App_Icon.png) | 그때 갑자기 닌자가 나타났다! | Unity | 개인 프로젝트 | 랜덤으로 생성되는 닌자의 공격을 피해 달아나는 3D 아케이드 게임 | [YouTube](https://youtu.be/Glp0o2QQ7OE?si=2zMwMkQbuy0_3idI) |
-| ![프로젝트2 이미지](https://github.com/kyj931221/02.for-all-of-us/blob/main/ForAOU/Assets/Image/Go%20to%20the%20moon.png) | 달로향하자! : For All Of Us | Unity | 개인 프로젝트 | 움직이는 발판, 보이지않는 발판, 함정을 피해 목표에 도달하는 플랫포머 게임 | [YouTube](https://youtu.be/9kRKZsyv2NQ?si=L3eqRcAW0Dwz6iLN) |
-| ![프로젝트3 이미지](https://github.com/kyj931221/03.Protect-the-Earth/blob/main/Protect%20the%20Earth/Assets/Images/NEW%20%EC%A7%80%EA%B5%AC%EB%A5%BC%20%EC%A7%80%EC%BC%9C%EB%9D%BC.png) | AR 지구를지켜라: Protect The Earth | Unity | 개인 프로젝트 | 실감나는 연출, 음악, 운석을 파괴하는 스마트폰 AR 슈팅 게 | [YouTube](https://youtu.be/3ULUfv5EggE?si=5Kouzo2wytVX0sEN) |
-| <img src="https://github.com/kyj931221/03.Protect-the-Earth/blob/main/Protect%20the%20Earth/Assets/Images/NEW%20%EC%A7%80%EA%B5%AC%EB%A5%BC%20%EC%A7%80%EC%BC%9C%EB%9D%BC.png" width="100" /> | AR 지구를지켜라: Protect The Earth | Unity | 개인 프로젝트 | 실감나는 연출, 음악, 운석을 파괴하는 스마트폰 AR 슈팅 게 | [YouTube](https://youtu.be/3ULUfv5EggE?si=5Kouzo2wytVX0sEN) |
+| 장르 | 이미지 | 프로젝트 이름 | 엔진 | 유형 | 설명 | 링크 |
+|--------|--------|---------------|------|------|------|------|
+|3D 아케이드| <img src="https://github.com/kyj931221/01.Then-a-ninja-suddenly-appeared/blob/main/Main_Dodge/Assets/Image/App_Icon.png" width="100" /> | 그때 갑자기 닌자가 나타났다! | Unity | 개인 프로젝트 | 랜덤으로 생성되는 닌자의 공격을 피해 달아나는 3D 아케이드 게임 | [YouTube](https://youtu.be/Glp0o2QQ7OE?si=2zMwMkQbuy0_3idI) |
+|2D 플랫포머| <img src="https://github.com/kyj931221/02.for-all-of-us/blob/main/ForAOU/Assets/Image/Go%20to%20the%20moon.png" width="100" /> | 달로향하자! : For All Of Us | Unity | 개인 프로젝트 | 움직이는 발판, 보이지않는 발판, 함정을 피해 목표에 도달하는 플랫포머 게임 | [YouTube](https://youtu.be/9kRKZsyv2NQ?si=L3eqRcAW0Dwz6iLN) |
+|AR| <img src="https://github.com/kyj931221/03.Protect-the-Earth/blob/main/Protect%20the%20Earth/Assets/Images/NEW%20%EC%A7%80%EA%B5%AC%EB%A5%BC%20%EC%A7%80%EC%BC%9C%EB%9D%BC.png" width="100" /> | AR 지구를지켜라: Protect The Earth | Unity | 개인 프로젝트 | 실감나는 연출, 음악, 운석을 파괴하는 스마트폰 AR 슈팅 게 | [YouTube](https://youtu.be/3ULUfv5EggE?si=5Kouzo2wytVX0sEN) |
+|AR| <img src="https://github.com/kyj931221/04.ARC/blob/main/arc/Assets/Image/Re_mind_logo.png" width="100" /> | RE.MIND : AR Check List | Unity | 개인 프로젝트 | AR 이미지 트래킹을 이용한 2D UI 체크리스트 관리 어플리케이 | [YouTube](https://youtu.be/rV8lyufHbgM?si=3O8XcO4y0JiljDOT) |
 
 > **Tip**: 이미지를 업로드할 때는 경로를 GitHub 내 이미지 링크로 변경하거나 외부 URL을 사용하세요. 
 
