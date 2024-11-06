@@ -1,3 +1,5 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ABILITY&fontAlign=80&fontAlignY=40&color=gradient)
+
 # 👋 디지털 콘텐츠(Game,VR,AR) 개발/기획 [김영준] 입니다!
 
 - 창의적인 프로젝트와 실무 경험으로 성장 중인 열정 가득한 신입 개발자 입니다.
@@ -7,10 +9,30 @@
 ---
 
 ## 🏆 경력 사항
-- [기업부설연구소, 대리] - 2019년 08월 ~ 2022년 07월(3년)
-- [중요 경력]
+[기업부설연구소, 대리] - 2019년 08월 ~ 2022년 07월(3년) <br>
+[중요 경력]
 - IoT / ICT 제품 기획, 연구, 개발
 - 스마트팜, 무선 컨트롤 시스템, 국가 과제 사업 수행
+
+---
+
+## 스킬
+<div align="center">
+  <img src="https://img.shields.io/badge/meta-0467DF?style=flat&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/photon-004480?style=flat&logo=photon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobepremierepro-FF3366?style=flat&logo=adobepremierepro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/android-34A853?style=flat&logo=android&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+  
+</div>
 
 ---
 
