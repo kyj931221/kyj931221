@@ -88,11 +88,11 @@
 <!-- 유튜브 깃허브  -->    
     <td>
       <a href="https://youtu.be/Glp0o2QQ7OE?si=T-zyodfum7TASCCM">
-        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 90px; height: 20px; margin-right: 10px;">
       </a>
       <br>
       <a href="https://github.com/kyj931221/01.Then-a-ninja-suddenly-appeared">
-        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 90px; height: 20px;">
       </a>
     </td>
     
@@ -166,11 +166,11 @@
 <!-- 유튜브 깃허브  -->    
     <td>
       <a href="https://youtu.be/3ULUfv5EggE?si=5Kouzo2wytVX0sEN">
-        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 100px; height: 20px; margin-right: 10px;">
       </a>
       <br>
       <a href="https://github.com/kyj931221/02.for-all-of-us">
-        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 100px; height: 20px;">
       </a>
     </td>
     
