@@ -87,7 +87,8 @@
     </td>
 <!-- 유튜브 깃허브  -->    
     <td>
-      <a href="https://youtu.be/9f-Qh_hm4RQ?si=1MI8pzk30K0uD9SR"><img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      <a href="https://youtu.be/Glp0o2QQ7OE?si=T-zyodfum7TASCCM">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
       </a>
       <br>
       <a href="https://github.com/kyj931221/01.Then-a-ninja-suddenly-appeared">
