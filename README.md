@@ -55,7 +55,9 @@
     <th>⚙️<br>엔진</th>
     <th>👥 유형</th>
     <th>📄 설명</th>
-    <th>유튜브 &<br> 깃허브</th>
+    <th><img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+        <br> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+    </th>
   </tr>
   
 <tr>
