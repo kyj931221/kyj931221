@@ -48,16 +48,337 @@
 
 |   🎮 장르   | 🖼️ 이미지 | 📌 프로젝트 이름 | ⚙️ 엔진 | 👥 유형 | 📄 설명 | 🔗 링크 | 🗂️ GitHub |
 |------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
-|3D 아케이드| <img src="https://github.com/kyj931221/01.Then-a-ninja-suddenly-appeared/blob/main/Main_Dodge/Assets/Image/App_Icon.png" width="100" /> | 그때 갑자기 닌자가 나타났다! | Unity | 개인 프로젝트 | 랜덤으로 생성되는 닌자의 공격을 피해 달아나는 3D 아케이드 게임 | [YouTube](https://youtu.be/Glp0o2QQ7OE?si=2zMwMkQbuy0_3idI) |[Git](https://github.com/kyj931221/01.Then-a-ninja-suddenly-appeared)|
-|2D 플랫포머| <img src="https://github.com/kyj931221/02.for-all-of-us/blob/main/ForAOU/Assets/Image/Go%20to%20the%20moon.png" width="100" /> | 달로향하자! : For All Of Us | Unity | 개인 프로젝트 | 움직이는 발판, 보이지않는 발판, 함정을 피해 목표에 도달하는 플랫포머 게임 | [YouTube](https://youtu.be/9kRKZsyv2NQ?si=L3eqRcAW0Dwz6iLN) |[Git](https://github.com/kyj931221/02.for-all-of-us)|
-|AR| <img src="https://github.com/kyj931221/03.Protect-the-Earth/blob/main/Protect%20the%20Earth/Assets/Images/NEW%20%EC%A7%80%EA%B5%AC%EB%A5%BC%20%EC%A7%80%EC%BC%9C%EB%9D%BC.png" width="100" /> | AR 지구를지켜라: Protect The Earth | Unity | 개인 프로젝트 | 실감나는 연출, 음악, 운석을 파괴하는 스마트폰 AR 슈팅 게 | [YouTube](https://youtu.be/3ULUfv5EggE?si=5Kouzo2wytVX0sEN) |[Git](https://github.com/kyj931221/WEB_for_all_of_us)|
-|AR| <img src="https://github.com/kyj931221/04.ARC/blob/main/arc/Assets/Image/Re_mind_logo.png" width="100" /> | RE.MIND : AR Check List | Unity | 개인 프로젝트 | AR 이미지 트래킹을 이용한 2D UI 체크리스트 관리 어플리케이션 | [YouTube](https://youtu.be/rV8lyufHbgM?si=3O8XcO4y0JiljDOT) |[Git](https://github.com/kyj931221/04.ARC)|
-|AR| <img src="https://github.com/kyj931221/Children-s-Safety-AR/blob/main/AR_ChildrenSafety-main/Assets/Image/TitleImage.png" width="100" /> | 함께해요, 어린이 교통안전: AR로 배우는 어린이 교통안전 | Unity | 팀 프로젝트 | 음성과 애니메이션을 이용한 AR 이미지 트래킹 어린이 교통안전 콘텐츠 | [YouTube](https://youtu.be/4vkbCIt_f50?si=LbpwnFzlXo-Gozxl) |[Git](https://github.com/kyj931221/Children-s-Safety-AR)|
-|VR| <img src="https://github.com/kyj931221/ICT_Project/blob/main/ICT_project/Assets/04.Image/ICT_VR_logo.png" width="100" /> | VR 명작동화 탐험대 | Unity | 팀 프로젝트 | 아이들을 위한 교육용 VR 동화 교육 콘텐츠 | [YouTube](https://youtu.be/9f-Qh_hm4RQ?si=1MI8pzk30K0uD9SR) |[Git](https://github.com/kyj931221/ICT_Project)|
-|AR| <img src=" " width="100" /> | Catch You Catch Me | Unity | 개인 프로젝트 | 특별한 장소에서 추억을 기록하고 공유할 수 있는 위치 정보 및 미디어 플레이어 AR 콘텐츠 | [YouTube](https://youtu.be/q-FsHx9qLf8?si=AIcXYEFSZs1frkJb) |[Git](https://github.com/kyj931221/ARDC_Play_Memory)|
+
 |TPS| <img src="https://github.com/kyj931221/TPS_Horror-game_UnSecne/blob/main/04.Images/KakaoTalk_20240913_012730727.png" width="100" /> | The UnScene : Fear Unseen | Unity | 개인 프로젝트 | 빛으로 몬스터의 존재를 밝히고, 지우는 3인칭 TPS 공포게 | [YouTube](https://youtu.be/KLLUYLJmKxU?si=TFiTwj-Um62jEeqh) |[Git](https://github.com/kyj931221/TPS_Horror-game_UnSecne)|
 
 
 ---
 
+## 💻 프로젝트 목록
 
+<table>
+  
+  <tr>
+    <th>🎮<br>장르</th>
+    <th>🖼️ 로고</th>
+    <th>📌 프로젝트<br>이름</th>
+    <th>⚙️<br>엔진</th>
+    <th>👥 유형</th>
+    <th>📄 설명</th>
+    <th>유튜브 &<br> 깃허브</th>
+  </tr>
+  
+<tr>
+<!----- 그갑닌자! ----->
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- 🎮 장르  -->
+    <td>
+      3D 아케이드
+    </td>
+<!-- 🖼️ 로고  -->
+    <td>
+      <img src="https://github.com/kyj931221/01.Then-a-ninja-suddenly-appeared/blob/main/Main_Dodge/Assets/Image/App_Icon.png" width="100">
+    </td>
+<!-- 📌 프로젝트 이름  -->  
+    <td>
+      그때 갑자기 닌자가 나타났다!
+    </td>
+<!-- ⚙️ 엔진  -->     
+    <td>
+      <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white"/> 
+    </td>
+<!-- 👥 유형  -->
+    <td>
+      개인 프로젝트 
+    </td>
+<!-- 📄 설명  -->
+    <td>
+      랜덤으로 생성되는 닌자의 공격을 피해 달아나는 3D 아케이드 게임 
+    </td>
+<!-- 유튜브 깃허브  -->    
+    <td>
+      <a href="https://youtu.be/9f-Qh_hm4RQ?si=1MI8pzk30K0uD9SR"><img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/kyj931221/01.Then-a-ninja-suddenly-appeared">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+    
+  </tr>
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- 달로 향하자 ----->
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- 🎮 장르  -->
+    <td>
+      2D 플랫포머
+    </td>
+<!-- 🖼️ 로고  -->
+    <td>
+      <img src="https://github.com/kyj931221/02.for-all-of-us/blob/main/ForAOU/Assets/Image/Go%20to%20the%20moon.png" width="100" />
+    </td>
+<!-- 📌 프로젝트 이름  -->  
+    <td>
+      달로향하자! : For All Of Us
+    </td>
+<!-- ⚙️ 엔진  -->     
+    <td>
+      <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white"/>  
+    </td>
+<!-- 👥 유형  -->
+    <td>
+      개인 프로젝트 
+    </td>
+<!-- 📄 설명  -->
+    <td>
+      움직이는 발판, 보이지않는 발판, 함정을 피해 목표에 도달하는 플랫포머 게임
+    </td>
+<!-- 유튜브 깃허브  -->    
+    <td>
+      <a href="https://youtu.be/9kRKZsyv2NQ?si=L3eqRcAW0Dwz6iLN">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/kyj931221/02.for-all-of-us">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+    
+  </tr>
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- AR 지구를지켜라: Protect The Earth ----->
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- 🎮 장르  -->
+    <td>
+      AR
+    </td>
+<!-- 🖼️ 로고  -->
+    <td>
+      <img src="https://github.com/kyj931221/03.Protect-the-Earth/blob/main/Protect%20the%20Earth/Assets/Images/NEW%20%EC%A7%80%EA%B5%AC%EB%A5%BC%20%EC%A7%80%EC%BC%9C%EB%9D%BC.png" width="100" />
+    </td>
+<!-- 📌 프로젝트 이름  -->  
+    <td>
+      AR 지구를지켜라: Protect The Earth
+    </td>
+<!-- ⚙️ 엔진  -->     
+    <td>
+      <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white"/>  
+    </td>
+<!-- 👥 유형  -->
+    <td>
+      개인 프로젝트 
+    </td>
+<!-- 📄 설명  -->
+    <td>
+      실감나는 연출, 음악, 운석을 파괴하는 스마트폰 AR 슈팅 게임
+    </td>
+<!-- 유튜브 깃허브  -->    
+    <td>
+      <a href="https://youtu.be/3ULUfv5EggE?si=5Kouzo2wytVX0sEN">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/kyj931221/02.for-all-of-us">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+    
+  </tr>
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- RE.MIND : AR Check List ----->
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- 🎮 장르  -->
+    <td>
+      AR
+    </td>
+<!-- 🖼️ 로고  -->
+    <td>
+      <img src="https://github.com/kyj931221/04.ARC/blob/main/arc/Assets/Image/Re_mind_logo.png" width="100" />
+    </td>
+<!-- 📌 프로젝트 이름  -->  
+    <td>
+      RE.MIND : AR Check List
+    </td>
+<!-- ⚙️ 엔진  -->     
+    <td>
+      <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white"/>  
+    </td>
+<!-- 👥 유형  -->
+    <td>
+      개인 프로젝트 
+    </td>
+<!-- 📄 설명  -->
+    <td>
+      AR 이미지 트래킹을 이용한 2D UI 체크리스트 관리 어플리케이션
+    </td>
+<!-- 유튜브 깃허브  -->    
+    <td>
+      <a href="https://youtu.be/rV8lyufHbgM?si=3O8XcO4y0JiljDOT">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/kyj931221/04.ARC">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+    
+  </tr>
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- 함께해요, 어린이 교통안전: AR로 배우는 어린이 교통안전 ----->
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- 🎮 장르  -->
+    <td>
+      AR
+    </td>
+<!-- 🖼️ 로고  -->
+    <td>
+      <img src="https://github.com/kyj931221/Children-s-Safety-AR/blob/main/AR_ChildrenSafety-main/Assets/Image/TitleImage.png" width="100" />
+    </td>
+<!-- 📌 프로젝트 이름  -->  
+    <td>
+      함께해요, 어린이 교통안전: AR로 배우는 어린이 교통안전
+    </td>
+<!-- ⚙️ 엔진  -->     
+    <td>
+      <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white"/>  
+    </td>
+<!-- 👥 유형  -->
+    <td>
+      팀 프로젝트 
+    </td>
+<!-- 📄 설명  -->
+    <td>
+      음성과 애니메이션을 이용한 AR 이미지 트래킹 어린이 교통안전 콘텐츠
+    </td>
+<!-- 유튜브 깃허브  -->    
+    <td>
+      <a href="https://youtu.be/4vkbCIt_f50?si=LbpwnFzlXo-Gozxl">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/kyj931221/Children-s-Safety-AR">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+    
+  </tr>
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- VR 명작동화 탐험대 ----->
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- 🎮 장르  -->
+    <td>
+      VR
+    </td>
+<!-- 🖼️ 로고  -->
+    <td>
+      <img src="https://github.com/kyj931221/ICT_Project/blob/main/ICT_project/Assets/04.Image/ICT_VR_logo.png" width="100" />
+    </td>
+<!-- 📌 프로젝트 이름  -->  
+    <td>
+      VR 명작동화 탐험대
+    </td>
+<!-- ⚙️ 엔진  -->     
+    <td>
+      <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white"/>  
+    </td>
+<!-- 👥 유형  -->
+    <td>
+      팀 프로젝트 
+    </td>
+<!-- 📄 설명  -->
+    <td>
+      아이들을 위한 교육용 VR 동화 교육 콘텐츠
+    </td>
+<!-- 유튜브 깃허브  -->    
+    <td>
+      <a href="https://youtu.be/9f-Qh_hm4RQ?si=1MI8pzk30K0uD9SR">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/kyj931221/ICT_Project">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+    
+  </tr>
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Catch You Catch Me ----->
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- 🎮 장르  -->
+    <td>
+      AR
+    </td>
+<!-- 🖼️ 로고  -->
+    <td>
+      <img src="https://github.com/kyj931221/ARDC_Play_Memory/blob/main/play_Memory/Assets/03.Image/Catch%20You%20Catch%20Me%20AR%20project%20logo.png" width="100" />
+    </td>
+<!-- 📌 프로젝트 이름  -->  
+    <td>
+      Catch You Catch Me
+    </td>
+<!-- ⚙️ 엔진  -->     
+    <td>
+      <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white"/>  
+    </td>
+<!-- 👥 유형  -->
+    <td>
+      개인 프로젝트 
+    </td>
+<!-- 📄 설명  -->
+    <td>
+      특별한 장소에서 추억을 기록하고 공유할 수 있는 위치 정보 및 미디어 플레이어 AR 콘텐츠
+    </td>
+<!-- 유튜브 깃허브  -->    
+    <td>
+      <a href="https://youtu.be/q-FsHx9qLf8?si=AIcXYEFSZs1frkJb">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/kyj931221/ARDC_Play_Memory">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+    
+  </tr>
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Catch You Catch Me ----->
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- 🎮 장르  -->
+    <td>
+      TPS
+    </td>
+<!-- 🖼️ 로고  -->
+    <td>
+      <img src="https://github.com/kyj931221/TPS_Horror-game_UnSecne/blob/main/04.Images/KakaoTalk_20240913_012730727.png" width="100" />
+    </td>
+<!-- 📌 프로젝트 이름  -->  
+    <td>
+      The UnScene : Fear Unseen
+    </td>
+<!-- ⚙️ 엔진  -->     
+    <td>
+      <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white"/>  
+    </td>
+<!-- 👥 유형  -->
+    <td>
+      개인 프로젝트 
+    </td>
+<!-- 📄 설명  -->
+    <td>
+      빛으로 몬스터의 존재를 밝히고, 지우는 3인칭 TPS 공포게임
+    </td>
+<!-- 유튜브 깃허브  -->    
+    <td>
+      <a href="https://youtu.be/KLLUYLJmKxU?si=TFiTwj-Um62jEeqh">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/kyj931221/TPS_Horror-game_UnSecne">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+    
+  </tr>
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+
+</table>
