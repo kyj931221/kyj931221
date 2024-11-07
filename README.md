@@ -46,16 +46,6 @@
 
 ## 💻 프로젝트 목록
 
-|   🎮 장르   | 🖼️ 이미지 | 📌 프로젝트 이름 | ⚙️ 엔진 | 👥 유형 | 📄 설명 | 🔗 링크 | 🗂️ GitHub |
-|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
-
-|TPS| <img src="https://github.com/kyj931221/TPS_Horror-game_UnSecne/blob/main/04.Images/KakaoTalk_20240913_012730727.png" width="100" /> | The UnScene : Fear Unseen | Unity | 개인 프로젝트 | 빛으로 몬스터의 존재를 밝히고, 지우는 3인칭 TPS 공포게 | [YouTube](https://youtu.be/KLLUYLJmKxU?si=TFiTwj-Um62jEeqh) |[Git](https://github.com/kyj931221/TPS_Horror-game_UnSecne)|
-
-
----
-
-## 💻 프로젝트 목록
-
 <table>
   
   <tr>
