@@ -403,5 +403,48 @@
     
   </tr>
 <!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Catch You Catch Me ----->
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- 🎮 장르  -->
+    <td>
+      <div align="center">
+      Web
+      </div>
+    </td>
+<!-- 🖼️ 로고  -->
+    <td>
+      <img src="https://github.com/kyj931221/trickcal_fan_game_01/blob/main/assets/Image/game-title.png" width="100" />
+    </td>
+<!-- 📌 프로젝트 이름  -->  
+    <td>
+      <div align="center">
+      트릭컬 팬 게임 : 버터의 즐거운 산책
+      </div>
+    </td>
+<!-- ⚙️ 엔진  -->     
+    <td>
+      <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/> 
+    </td>
+<!-- 👥 유형  -->
+    <td>
+      개인 프로젝트 
+    </td>
+<!-- 📄 설명  -->
+    <td>
+      트릭컬 팬 게임 : 컨트롤을 통해 버터에게 좋아하는 음식을 먹어 점수를 획득하자!
+    </td>
+<!-- 유튜브 깃허브  -->    
+    <td>
+      <a href=" ">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/kyj931221/trickcal_fan_game_01">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+    
+  </tr>
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
 
 </table>
