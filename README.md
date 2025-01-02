@@ -486,5 +486,51 @@
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
       </a>
     </td>
+        
+  </tr>
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Unity 6 챌린지 : 김치-런 ----->
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- 🎮 장르  -->
+    <td>
+      <div align="center">
+      아케이드
+      </div>
+    </td>
+<!-- 🖼️ 로고  -->
+    <td>
+      <img src="https://raw.githubusercontent.com/kyj931221/Kimchi-run/refs/heads/main/Kimchi-run/Assets/05.Image/Title_01.png" width="100" />
+    </td>
+<!-- 📌 프로젝트 이름  -->  
+    <td>
+      <div align="center">
+      유니티6 챌린지 : 김치-런런
+      </div>
+    </td>
+<!-- ⚙️ 엔진  -->     
+    <td>
+      <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white"/> 
+    </td>
+<!-- 👥 유형  -->
+    <td>
+      개인 프로젝트 
+    </td>
+<!-- 📄 설명  -->
+    <td>
+      유니티6 챌린지 : 오랜 시간 동안 김치 재료 아이템을 획득하여 장애물을 피해 살아남아라!
+    </td>
+<!-- 유튜브 깃허브  -->    
+    <td>
+      <a href=" ">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/kyj931221/Kimchi-run">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+    
+  </tr>
+<!---------------------------------------------------------------------------------------------------------------------------------------------->
 
 </table>
