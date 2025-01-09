@@ -37,7 +37,7 @@
 ---
 
 ## 🌐 개인 홈페이지 및 소셜 링크
-- 🌍 [프로젝트 WebGL 사이트](https://kyj931221.github.io/DevPort/entrance)
+- 🌍 [프로젝트 WebGL 사이트](https://kyj931221.github.io/DevPort/)
 - 🎥 [YouTube](https://www.youtube.com/@%EA%B9%80%EC%98%81%EC%A4%80-l2z)
 - ✍️ [기술 블로그(TISTORY)](https://kyj931221.tistory.com/)
 - 📓 [기타 블로그(NAVER)](https://blog.naver.com/opa1003)
