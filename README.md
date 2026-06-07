@@ -1,10 +1,10 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ABILITY&fontAlign=80&fontAlignY=40&color=gradient)
 
-# 👋 디지털 콘텐츠(Game, VR, AR) 개발/기획 [김영준] 입니다!
+# 👋 디지털 콘텐츠(Game, VR, AR) 제작을 위한 [김영준] 입니다!
 
-- 🌱 창의적인 프로젝트와 실무 경험으로 성장 중인 열정 가득한 신입 개발자 입니다.
-- 💻 유니티/언리얼 엔진을 사용하여 다양한 디지털 콘텐츠를 제작하고 개발합니다. 게임 또는 XR/VR/AR 디지털 콘텐츠를 제작합니다.
-- 🌐 Create and develop a variety of digital content using the Unity/Unreal engine. Create games or XR/VR/AR digital content.
+- 🌱 창의적인 프로젝트와 실무 경험으로 성장 중인 열정 가득한 신입 입니다.
+- 💻 유니티/언리얼 엔진을 사용하여 다양한 디지털 콘텐츠를 기획/제작 합니다.
+- 🌐 Plan/create a variety of digital content using Unity/Unreal Engine.
 
 ---
 
@@ -42,10 +42,9 @@
 ---
 
 ## 🌐 개인 홈페이지 및 소셜 링크
-- 🌍 [프로젝트 아카이브](https://kyj931221.github.io/K_Cat_Archive/)
+- 🌍 [홈페이지](http://pf-kyj931221.com/)
 - 🎥 [YouTube](https://www.youtube.com/@%EA%B9%80%EC%98%81%EC%A4%80-l2z)
-- ✍️ [기술 블로그(TISTORY)](https://kyj931221.tistory.com/)
-- 📓 [기타 블로그(NAVER)](https://blog.naver.com/opa1003)
+- 📓 [블로그(NAVER)](https://blog.naver.com/opa1003)
 
 ---
 
